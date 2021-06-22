@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "用户权益",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#2b2d42",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "rightslist": "/components/usersright/rightslist",
+    "choicebar": "/components/usersright/choicebar"
+  }
+}

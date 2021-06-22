@@ -1,0 +1,1 @@
+<view class="top-bar data-v-94a3505c"><block wx:for="{{select}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view data-event-opts="{{[['tap',[['isClick',[index]]]]]}}" class="{{['select data-v-94a3505c',currentIndex===index?'active':'']}}" bindtap="__e">{{''+item+''}}</view></block></view>

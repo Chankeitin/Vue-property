@@ -1,0 +1,1 @@
+<block wx:if="{{$root.g0.length!==0}}"><view class="recommend-info data-v-02f94b7a"><text class="hot data-v-02f94b7a">热门推荐</text><goods-list class="hotgoods data-v-02f94b7a" vue-id="5c30a4cc-1" goods="{{recommends}}" bind:__l="__l"></goods-list></view></block>

@@ -1,0 +1,325 @@
+{
+	"easycom": {
+		"^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		},
+		{
+			"path": "pages/login/index",
+			"style": {
+				"navigationBarTitleText": "欢迎使用物业app"
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		},
+		{
+			"path": "pages/login/register",
+			"style": {
+				"navigationBarTitleText": "注册"
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		}, {
+			"path": "pages/mine/mine",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/society/society",
+			"style": {
+				"navigationBarTitleText": "社区",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/homeServices/homeServices",
+			"style": {
+				"navigationBarTitleText": "家居服务",
+				"enablePullDownRefresh": false,
+				"onReachBottomDistance": 60
+			}
+
+		},
+		{
+			"path": "pages/index/bill/bill",
+			"style": {
+				"navigationBarTitleText": "账单",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/index/vistor/vistor",
+			"style": {
+				"navigationBarTitleText": "访客邀请",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/index/repair/repair",
+			"style": {
+				"navigationBarTitleText": "维修",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/index/water/water",
+			"style": {
+				"navigationBarTitleText": "送水",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/index/car/car",
+			"style": {
+				"navigationBarTitleText": "我的车",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/index/express/express",
+			"style": {
+				"navigationBarTitleText": "快递查询",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/index/renovation/renovation",
+			"style": {
+				"navigationBarTitleText": "装修登记",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/index/guarantee/guarantee",
+			"style": {
+				"navigationBarTitleText": "房屋保修",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/index/clean/clean",
+			"style": {
+				"navigationBarTitleText": "房屋清洁",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/index/notice/notice",
+			"style": {
+				"navigationBarTitleText": "物业公告",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+
+			"path": "pages/index/crown/crown",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/index/usersright/usersright",
+			"style": {
+				"navigationBarTitleText": "用户权益",
+				"enablePullDownRefresh": false,
+
+				"navigationBarBackgroundColor": "#2b2d42", //顶部背景色
+
+				"navigationBarTextStyle": "white" //文字颜色，目前只支持white和black这两种颜色（小程序）
+
+			}
+
+		}, {
+			"path": "pages/index/serviceplan/serviceplan",
+			"style": {
+				"navigationBarTitleText": "资产服务计划",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/mine/order/order",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/mine/card/card",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/mine/friendHands/friendHands",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/mine/post/post",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/mine/activities/activities",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/mine/problem/problem",
+			"style": {
+				"navigationBarTitleText": "功能异常与产品建议",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/mine/setting/setting",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/mine/ours/ours",
+			"style": {
+				"navigationBarTitleText": "关于我们",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/mine/ours/sourcelicense",
+			"style": {
+				"navigationBarTitleText": "开源许可",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/mine/ours/serviceagreement",
+			"style": {
+				"navigationBarTitleText": "住这儿协议",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/mine/ours/privacyagreement",
+			"style": {
+				"navigationBarTitleText": "隐私协议",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/mine/ours/protectionprinciple",
+			"style": {
+				"navigationBarTitleText": "生物识别信息保护协议",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/mine/explain/explain",
+			"style": {
+				"navigationBarTitleText": "常见问题解决",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/shoppingCart/shoppingCart",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/goodsDetail/goodsDetail",
+			"style": {
+				"navigationBarTitleText": "商品详情",
+				"enablePullDownRefresh": false
+			}
+
+		}
+
+		, {
+			"path": "pages/index/map/map",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}
+	],
+
+
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"selectedColor": "#b50e03",
+		"backgroundColor": "#f0f0f0",
+		"list": [{
+				"text": "首页",
+				"pagePath": "pages/index/index",
+				"iconPath": "static/icon/tabBarIcon/home.png",
+				"selectedIconPath": "static/icon/tabBarIcon/home-active.png"
+			},
+
+			{
+				"text": "集市",
+				"pagePath": "pages/homeServices/homeServices",
+				"iconPath": "static/icon/tabBarIcon/Bazaar.png",
+				"selectedIconPath": "static/icon/tabBarIcon/Bazaar-active.png"
+			},
+
+			{
+				"text": "社区",
+				"pagePath": "pages/society/society",
+				"iconPath": "static/icon/tabBarIcon/community.png",
+				"selectedIconPath": "static/icon/tabBarIcon/community-active.png"
+			},
+
+			{
+				"text": "我的",
+				"pagePath": "pages/mine/mine",
+				"iconPath": "static/icon/tabBarIcon/me.png",
+				"selectedIconPath": "static/icon/tabBarIcon/me-active.png"
+			}
+		]
+	},
+	"condition": { //模式配置，仅开发期间生效
+		"current": 0, //当前激活的模式(list 的索引项)
+		"list": [{
+			"name": "", //模式名称
+			"path": "", //启动页面，必选
+			"query": "" //启动参数，在页面的onLoad函数里面得到
+		}]
+	}
+
+}

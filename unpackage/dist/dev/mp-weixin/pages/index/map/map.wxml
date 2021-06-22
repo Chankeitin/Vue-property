@@ -1,0 +1,1 @@
+<view class="map"><map longitude="{{longitude}}" latitude="{{latitude}}" markers="{{markers}}"></map><view class="info"><view class="location">地址: 北京师范大学珠海分校</view><view data-event-opts="{{[['tap',[['call',['$event']]]]]}}" class="phone" bindtap="__e">电话: 0086-756-3683393 ｛点击拨打｝</view></view></view>

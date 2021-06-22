@@ -1,0 +1,1 @@
+<view><view class="title">用户权益专区</view><view class="img"><image style="width:100%;height:300rpx;" src="../../static/test/用户权益.jpg" mode data-event-opts="{{[['tap',[['goUsersright',['$0'],['url']]]]]}}" bindtap="__e"></image></view></view>

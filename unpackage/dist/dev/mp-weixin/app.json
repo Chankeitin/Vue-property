@@ -1,0 +1,84 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/login/index",
+    "pages/login/login",
+    "pages/login/register",
+    "pages/index/index",
+    "pages/mine/mine",
+    "pages/society/society",
+    "pages/homeServices/homeServices",
+    "pages/index/bill/bill",
+    "pages/index/vistor/vistor",
+    "pages/index/repair/repair",
+    "pages/index/water/water",
+    "pages/index/car/car",
+    "pages/index/express/express",
+    "pages/index/renovation/renovation",
+    "pages/index/guarantee/guarantee",
+    "pages/index/clean/clean",
+    "pages/index/notice/notice",
+    "pages/index/crown/crown",
+    "pages/index/usersright/usersright",
+    "pages/index/serviceplan/serviceplan",
+    "pages/mine/order/order",
+    "pages/mine/card/card",
+    "pages/mine/friendHands/friendHands",
+    "pages/mine/post/post",
+    "pages/mine/activities/activities",
+    "pages/mine/problem/problem",
+    "pages/mine/setting/setting",
+    "pages/mine/ours/ours",
+    "pages/mine/ours/sourcelicense",
+    "pages/mine/ours/serviceagreement",
+    "pages/mine/ours/privacyagreement",
+    "pages/mine/ours/protectionprinciple",
+    "pages/mine/explain/explain",
+    "pages/shoppingCart/shoppingCart",
+    "pages/goodsDetail/goodsDetail",
+    "pages/index/map/map"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "selectedColor": "#b50e03",
+    "backgroundColor": "#f0f0f0",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/icon/tabBarIcon/home.png",
+        "selectedIconPath": "static/icon/tabBarIcon/home-active.png"
+      },
+      {
+        "text": "集市",
+        "pagePath": "pages/homeServices/homeServices",
+        "iconPath": "static/icon/tabBarIcon/Bazaar.png",
+        "selectedIconPath": "static/icon/tabBarIcon/Bazaar-active.png"
+      },
+      {
+        "text": "社区",
+        "pagePath": "pages/society/society",
+        "iconPath": "static/icon/tabBarIcon/community.png",
+        "selectedIconPath": "static/icon/tabBarIcon/community-active.png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/mine/mine",
+        "iconPath": "static/icon/tabBarIcon/me.png",
+        "selectedIconPath": "static/icon/tabBarIcon/me-active.png"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "测试"
+    }
+  },
+  "usingComponents": {}
+}

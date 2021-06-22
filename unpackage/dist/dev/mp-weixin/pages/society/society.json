@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "社区",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "tag": "/components/tag/tag",
+    "speech": "/components/speech/speech",
+    "unifab": "/components/uni-fab/uni-fab"
+  }
+}

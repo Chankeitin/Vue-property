@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "element-ui": "^2.15.2",
+    "uni-simple-router": "^1.5.5",
+    "uview-ui": "^1.8.4",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "axios": "^0.21.1"
+  }
+}

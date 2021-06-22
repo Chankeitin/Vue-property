@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uni-goods-nav": "/uni_modules/uni-goods-nav/uni-goods-nav"
+  }
+}

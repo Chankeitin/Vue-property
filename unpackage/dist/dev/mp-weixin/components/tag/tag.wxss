@@ -1,0 +1,33 @@
+
+.container {
+/* 		height: 200rpx;
+		background-color: white; */
+}.activity {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		padding: 20rpx;
+}.area {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		margin-top: 20rpx;
+		padding-left: 20rpx;
+}.tagname {
+		font-size: 20rpx;
+		font-weight: 600;
+		padding: 0rpx 10rpx;
+	/* 	height: 20px; */
+		line-height: 50rpx;
+/* 		margin: 0 10rpx;
+		border-radius: 30rpx; */
+}.item {
+		margin: 0 10rpx;
+		border-radius: 30rpx;
+}.active {
+		margin: 0 10rpx;
+		border-radius: 30rpx;
+
+		background-color: rgb(245, 108, 108);
+}
+

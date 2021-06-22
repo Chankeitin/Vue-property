@@ -1,0 +1,1 @@
+<view class="tab-bar data-v-5a29347e"><uni-goods-nav vue-id="2a044770-1" fill="{{true}}" options="{{options}}" buttonGroup="{{buttonGroup}}" data-event-opts="{{[['^click',[['onClick']]],['^buttonClick',[['buttonClick']]]]}}" bind:click="__e" bind:buttonClick="__e" class="data-v-5a29347e" bind:__l="__l"></uni-goods-nav></view>

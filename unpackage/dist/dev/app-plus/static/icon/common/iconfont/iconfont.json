@@ -1,0 +1,110 @@
+{
+  "id": "2528993",
+  "name": "uniapp",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+<<<<<<< HEAD
+      "icon_id": "9601057",
+      "name": "地图",
+      "font_class": "ditu",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+=======
+>>>>>>> 94b87a1 (皇冠的内容)
+      "icon_id": "18746326",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "3216558",
+      "name": "装修",
+      "font_class": "zhuangxiu",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "12280899",
+      "name": "车",
+      "font_class": "maimaiche",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "16770811",
+      "name": "访客邀请mdpi",
+      "font_class": "fangkeyaoqingmdpi",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "5238500",
+      "name": "皇冠",
+      "font_class": "huangguanguanjundiyihuiyuan",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "10487479",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "5083426",
+      "name": "水",
+      "font_class": "shui",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "13271314",
+      "name": "清理",
+      "font_class": "qingli",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "18368461",
+      "name": "保修",
+      "font_class": "baoxiu",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "148060",
+      "name": "扫一扫",
+      "font_class": "saoyisao",
+      "unicode": "e6ea",
+      "unicode_decimal": 59114
+    },
+    {
+      "icon_id": "13179162",
+      "name": "快递查询",
+      "font_class": "kuaidichaxun",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "16322453",
+      "name": "维修",
+      "font_class": "weixiu",
+      "unicode": "e6da",
+      "unicode_decimal": 59098
+    },
+    {
+      "icon_id": "3885979",
+      "name": "账单",
+      "font_class": "_dayinxiaopiao",
+      "unicode": "e82b",
+      "unicode_decimal": 59435
+    }
+  ]
+}

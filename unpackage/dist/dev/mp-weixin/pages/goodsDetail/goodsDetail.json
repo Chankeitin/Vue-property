@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "商品详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-back-top": "/node-modules/uview-ui/components/u-back-top/u-back-top",
+    "detail-nav-bar": "/components/homeServices/goodsDetail/detailNavBar",
+    "detail-base-info": "/components/homeServices/goodsDetail/detailBaseInfo",
+    "detail-shop-info": "/components/homeServices/goodsDetail/detailShopInfo",
+    "detail-tab-bar": "/components/homeServices/goodsDetail/detailTabBar",
+    "detail-goods-info": "/components/homeServices/goodsDetail/detailGoodsInfo",
+    "detail-params-info": "/components/homeServices/goodsDetail/detailParamInfo",
+    "detail-comment-info": "/components/homeServices/goodsDetail/detailCommentInfo",
+    "detail-recommend-info": "/components/homeServices/goodsDetail/detailRecommendInfo"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "notice": "/components/notice/notice",
+    "usersright": "/components/usersright/usersright",
+    "serviceplan": "/components/serviceplan/serviceplan",
+    "index-nav-bar": "/components/index/indexNavBar/indexNavBar",
+    "functions": "/components/index/functions/functions",
+    "sun-property": "/components/index/sunProperty/sunProperty",
+    "social-activities": "/components/index/socialActivities/socialActivities"
+  }
+}

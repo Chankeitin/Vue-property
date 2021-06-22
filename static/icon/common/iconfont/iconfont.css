@@ -1,0 +1,80 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2528993 */
+<<<<<<< HEAD
+  src: url('iconfont.woff2?t=1621996158555') format('woff2'),
+       url('iconfont.woff?t=1621996158555') format('woff'),
+       url('iconfont.ttf?t=1621996158555') format('truetype');
+=======
+  src: url('iconfont.woff2?t=1620295554405') format('woff2'),
+       url('iconfont.woff?t=1620295554405') format('woff'),
+       url('iconfont.ttf?t=1620295554405') format('truetype');
+>>>>>>> 94b87a1 (皇冠的内容)
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+<<<<<<< HEAD
+.icon-ditu:before {
+  content: "\e651";
+}
+
+=======
+>>>>>>> 94b87a1 (皇冠的内容)
+.icon-gouwuche:before {
+  content: "\e632";
+}
+
+.icon-zhuangxiu:before {
+  content: "\e675";
+}
+
+.icon-maimaiche:before {
+  content: "\e638";
+}
+
+.icon-fangkeyaoqingmdpi:before {
+  content: "\e614";
+}
+
+.icon-huangguanguanjundiyihuiyuan:before {
+  content: "\e61a";
+}
+
+.icon-xiaoxi:before {
+  content: "\e691";
+}
+
+.icon-shui:before {
+  content: "\e607";
+}
+
+.icon-qingli:before {
+  content: "\e60d";
+}
+
+.icon-baoxiu:before {
+  content: "\e690";
+}
+
+.icon-saoyisao:before {
+  content: "\e6ea";
+}
+
+.icon-kuaidichaxun:before {
+  content: "\e61d";
+}
+
+.icon-weixiu:before {
+  content: "\e6da";
+}
+
+.icon-_dayinxiaopiao:before {
+  content: "\e82b";
+}
+

@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "家居服务",
+  "enablePullDownRefresh": false,
+  "onReachBottomDistance": 60,
+  "usingComponents": {
+    "u-back-top": "/node-modules/uview-ui/components/u-back-top/u-back-top",
+    "m-search": "/components/homeServices/mehaotian-search/mehaotian-search",
+    "top-bar": "/components/homeServices/topbar/topbar",
+    "goods-list": "/components/homeServices/goods/GoodsList"
+  }
+}

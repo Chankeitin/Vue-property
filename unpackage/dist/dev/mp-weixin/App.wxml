@@ -1,0 +1,1 @@
+<view id="app" class="_div"><router-view vue-id="c31923fa-1" bind:__l="__l"></router-view></view>
