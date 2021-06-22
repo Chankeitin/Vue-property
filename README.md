@@ -13,11 +13,11 @@
 #### 前后端链接
 
 APP前端页面
-
+https://github.com/Chankeitin/Vue-property
 
 
 APP后台页面
-
+https://github.com/Chankeitin/Vue-admin-property
 
 
 APP后台springboot
